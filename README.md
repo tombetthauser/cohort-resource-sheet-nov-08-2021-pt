@@ -61,7 +61,9 @@ Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-h
 
 ## Upcoming Holidays (no class!):
 
-* 11/23/2022	Thanksgiving
+Stand by...
+
+<!-- * 11/23/2022	Thanksgiving
 * 11/24/2022	Thanksgiving
 * 11/26/2022	Thanksgiving
 * 12/19/2022	Winter Holiday 2022
@@ -69,7 +71,7 @@ Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-h
 * 12/21/2022	Winter Holiday
 * 12/22/2022	Winter Holiday
 * 12/23/2022	Winter Holiday
-* 1/2/2023	New Years Day 2023 🎉
+* 1/2/2023	New Years Day 2023 🎉 -->
 
 <!-- ## Cohort Roadmap
 
