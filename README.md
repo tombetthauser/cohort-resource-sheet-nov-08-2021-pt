@@ -49,7 +49,7 @@ Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-h
 
 (^ newly added / deferred students feel free to add yourself to this!)
  -->
-<!-- ***
+***
 
 Upcoming Holidays (no class!):
 
@@ -63,7 +63,7 @@ Upcoming Holidays (no class!):
 12/23/2022	Winter Holiday
 1/2/2023	New Years Day 2023 🎉
 
-***
+<!-- ***
 
 ### Scorecard Links (student facing copy)
 * [Google Sheet Link](https://docs.google.com/spreadsheets/d/11W3c5aIYLf3MRmmHDLD6ZsZyIrN671fo_qhaR8KtBXM/edit#gid=1998193914)
