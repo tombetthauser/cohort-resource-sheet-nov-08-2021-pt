@@ -45,20 +45,23 @@ App Academy Open: [click here](open.appacademy.io/learn)
 
 Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/code-of-conduct)
 
-Student Introduction Google Sheet: [click here](https://docs.google.com/spreadsheets/d/1g3CMPhuKuyqLaE3YmUWOnXBwFoiHlOMw8lN-519AYCY/edit#gid=2047540154) 📌
+<!-- Student Introduction Google Sheet: [click here](https://docs.google.com/spreadsheets/d/1g3CMPhuKuyqLaE3YmUWOnXBwFoiHlOMw8lN-519AYCY/edit#gid=2047540154) 📌
 
 (^ newly added / deferred students feel free to add yourself to this!)
-
+ -->
 <!-- ***
 
-Module 1 Resource Links:
+Upcoming Holidays (no class!):
 
-* [Module 1 Resources from Mylo](https://github.com/appacademy/Module-1-Resources)
-
-
-Module 2 Resource Links:
-
-* [Module 2 Resources from Kristen](https://github.com/chaunceykm/mod2Resources) -->
+11/23/2022	Thanksgiving
+11/24/2022	Thanksgiving
+11/26/2022	Thanksgiving
+12/19/2022	Winter Holiday 2022
+12/20/2022	Winter Holiday
+12/21/2022	Winter Holiday
+12/22/2022	Winter Holiday
+12/23/2022	Winter Holiday
+1/2/2023	New Years Day 2023 🎉
 
 ***
 
