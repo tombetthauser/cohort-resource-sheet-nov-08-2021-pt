@@ -25,6 +25,10 @@ https://docs.google.com/presentation/d/1rNknQOs6i7SUjspfmdTStPDWg_Pem_h3djKE37t6
 
 [holiday list / TA facing](https://docs.google.com/spreadsheets/d/1OdHQ-yOrA6F0EPybAU_9qfF_jwkP-q9X5ZhscpbL8-c/edit#gid=0)
 
+[unified setup](https://github.com/appacademy/unified-setup)
+
+[aa_update](https://github.com/appacademy/SWEO-Part-Time-Resources/tree/main/1-Module/1-week/1-day)
+
 --- -->
 
 # Cohort Resource Sheet
@@ -51,62 +55,27 @@ Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-h
  -->
 ***
 
-Upcoming Holidays (no class!):
+## Upcoming Holidays (no class!):
 
-11/23/2022	Thanksgiving
-11/24/2022	Thanksgiving
-11/26/2022	Thanksgiving
-12/19/2022	Winter Holiday 2022
-12/20/2022	Winter Holiday
-12/21/2022	Winter Holiday
-12/22/2022	Winter Holiday
-12/23/2022	Winter Holiday
-1/2/2023	New Years Day 2023 🎉
+* 11/23/2022	Thanksgiving
+* 11/24/2022	Thanksgiving
+* 11/26/2022	Thanksgiving
+* 12/19/2022	Winter Holiday 2022
+* 12/20/2022	Winter Holiday
+* 12/21/2022	Winter Holiday
+* 12/22/2022	Winter Holiday
+* 12/23/2022	Winter Holiday
+* 1/2/2023	New Years Day 2023 🎉
 
-<!-- ***
+<!-- ## Cohort Roadmap
 
-### Scorecard Links (student facing copy)
-* [Google Sheet Link](https://docs.google.com/spreadsheets/d/11W3c5aIYLf3MRmmHDLD6ZsZyIrN671fo_qhaR8KtBXM/edit#gid=1998193914)
+![image](https://docs.google.com/drawings/d/1iEgJdA6kyTmLRTO5Tgot74HEc4zN9oMdQ9pn6mgyCag)
 
-### Capstone / Post-Graduation Resource Links:
-
-* [Supplemental Flask / Docker Lecture Recordeings from Mod 6](https://docs.google.com/spreadsheets/d/1aNpl8zyflJ2Anp-Y4C-HJRE840m2SeUiB09Qy7zVitc/edit#gid=0)
-
-* [Flask / React Project Starter](https://github.com/appacademy-starters/python-project-starter)
-
-* [Express / React Project Starter](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view?usp=sharing)
-
-* [User Story Slides](https://docs.google.com/presentation/d/1gGD-J1IvuUY1QENwYGAKwgCHo3HWbs4wgBPxw8kio_8/edit#slide=id.g7c0ce9784c_0_125)
-
-* [Heroku / Express Deployment (AAO)](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-13-jun-2021-cohort-1-online/heroku-and-you)
-
-<!-- * [Heroku / Flask Deployment (AAO)](https://hackmd.io/@jma/fast-flask-deploy) -->
-
-* [Express / React AWS Storage Set Up](https://github.com/jdrichardsappacad/aws-s3-pern-demo)
-
-* [Flask / React AWS Storage Set Up](https://hackmd.io/@app-academy/SyaRvp23d)
-
-* [Flask / React Websockets Set Up](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
-
-* [Using Alembic With Flask (AAO)](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-18---flask--sqlalchemy--and-forms/using-alembic-with-flask)
-
-* [Migrations With Alembic (AAO)](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-18---flask--sqlalchemy--and-forms/migrations-with-alembic)
-
-* [Flask-SQLAlchemy Declaring Models / Relationships](https://flask-sqlalchemy.palletsprojects.com/en/2.x/models/)
-
-* [Building a Flask API (HackMD by Olivia)](https://hackmd.io/3I_Fc9pRQcuUws6j_zHZeQ)
-
-***
-
-## Cohort Roadmap
-
-![image](https://docs.google.com/drawings/d/e/2PACX-1vS4Wx0ihqY_VYg4UtvM2fqdugB9zx2_33oRTfGqoRLsKlZQ-46_sB43AjDaS9-Gybjy0mn1LhStlXuY/pub?w=1440&h=1080)
-
-Where we are and where we're going!
+Where we are and where we're going! -->
 
 <!-- link to live google image for roadmap: https://docs.google.com/drawings/d/1iEgJdA6kyTmLRTO5Tgot74HEc4zN9oMdQ9pn6mgyCag/edit -->
 
-***
+<!-- ***
 
 ## Daily Schedule
 
@@ -205,6 +174,8 @@ Benefits of Pair Programming: [click here](https://open.appacademy.io/learn/stud
 Pair Programming The a/A Way: [click here](https://open.appacademy.io/learn/student-handbook/supplemental-resources/pair-programming-the-a-a-way)
 
 Empathetic Communication: [click here](https://open.appacademy.io/learn/student-handbook/supplemental-resources/empathetic-communication)
+
+-->
 
 ***
 
