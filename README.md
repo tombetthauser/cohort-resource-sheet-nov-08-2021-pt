@@ -1,5 +1,5 @@
 
-## Temporary Links
+<!-- ## Links for Tom / TAs
 
 https://docs.google.com/spreadsheets/d/1ujJjSkosJyrvufBK0n6DWXRPHXkkKKg59TCkwNg8Iy0/edit#gid=146399371
 
@@ -23,7 +23,7 @@ https://docs.google.com/spreadsheets/d/1TPt7jUX0nX-3LT5E6eNNtIOyR09GBOI0GsxjXyDM
 
 https://docs.google.com/presentation/d/1rNknQOs6i7SUjspfmdTStPDWg_Pem_h3djKE37t6ezU/edit#slide=id.ge8c8ae71d9_0_2445
 
----
+--- -->
 
 # Cohort Resource Sheet
 
