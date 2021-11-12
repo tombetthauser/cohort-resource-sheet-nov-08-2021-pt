@@ -23,23 +23,25 @@ https://docs.google.com/spreadsheets/d/1TPt7jUX0nX-3LT5E6eNNtIOyR09GBOI0GsxjXyDM
 
 https://docs.google.com/presentation/d/1rNknQOs6i7SUjspfmdTStPDWg_Pem_h3djKE37t6ezU/edit#slide=id.ge8c8ae71d9_0_2445
 
+[holiday list / TA facing](https://docs.google.com/spreadsheets/d/1OdHQ-yOrA6F0EPybAU_9qfF_jwkP-q9X5ZhscpbL8-c/edit#gid=0)
+
 --- -->
 
 # Cohort Resource Sheet
 
 Cohort: November 8 Part-Time (2021-11-08)
 
-Lead Cohort TA: [Tom Betthauser](http://tombetthauser.com)
+Lead Cohort TA: [Tom Betthauser](http://tombetthauser.com/dev)
 
-Cohort Zoom Link: [click here](https://us02web.zoom.us/j/84604914196?pwd=alc2QVRrSlFzYk13MEVVWDdwRE4rZz09) (password: go_june)
+Cohort Zoom Link: [click here](https://us02web.zoom.us/j/89086804724?pwd=VTFndDBzSWswaERBWkRrSHQwRW9Sdz09)
 
-Main Cohort Slack Channel: [#2021-06-01-online](https://app-academy.slack.com/archives/C01U21GFZ61)
+PST Slack Channel: [#2021-11-08-pt-pst](https://app-academy.slack.com/archives/C02FZG954KS)
 
-Lecture Questions Slack Channel: [#2021-06-01-lecture-questions](https://app-academy.slack.com/archives/C024196CBQR)
+EST Slack Channel: [#2021-11-08-pt-est](https://app-academy.slack.com/archives/C02FZGCHA1E)
 
-App Academy Open: [click here](open.appacademy.io/)
+Lecture Questions Slack Channel: [#2021-11-08-live-questions](https://app-academy.slack.com/archives/C02FZGCHA1E)
 
-Progress Tracker: [click here](progress.appacademy.io/)
+App Academy Open: [click here](open.appacademy.io/learn)
 
 Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/code-of-conduct)
 
