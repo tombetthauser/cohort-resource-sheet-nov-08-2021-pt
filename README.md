@@ -4,7 +4,6 @@
 [east sheet](https://docs.google.com/spreadsheets/d/1ryTGqfrB3uXNuvgYL_HOfYh8C_Nh5ZK9GRmeQJFI18s/edit#gid=317000197)
 [west sheet](https://docs.google.com/spreadsheets/d/1ujJjSkosJyrvufBK0n6DWXRPHXkkKKg59TCkwNg8Iy0/edit#gid=294182236)
 
-
 https://docs.google.com/spreadsheets/d/1OdHQ-yOrA6F0EPybAU_9qfF_jwkP-q9X5ZhscpbL8-c/edit#gid=0
 
 https://docs.google.com/spreadsheets/d/1ujJjSkosJyrvufBK0n6DWXRPHXkkKKg59TCkwNg8Iy0/edit#gid=146399371
