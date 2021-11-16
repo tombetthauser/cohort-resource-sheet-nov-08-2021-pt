@@ -74,11 +74,11 @@ Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-h
 * Thu 12/23/2021	
 * Sat 12/25/2021	
 
-<!-- ## Cohort Roadmap
+## Cohort Roadmap
 
-![image](https://docs.google.com/drawings/d/1iEgJdA6kyTmLRTO5Tgot74HEc4zN9oMdQ9pn6mgyCag)
+![image](https://docs.google.com/drawings/d/e/2PACX-1vRH7FAAAgJXQienqeAKDWqJlLMzeNqywOgF6F9g0hzgMSXaE5_llfz9bQ5javAXfUOlvVpxVttjk4wI/pub?w=1440&h=1203)
 
-Where we are and where we're going! -->
+Where we are and where we're going!
 
 <!-- link to live google image for roadmap: https://docs.google.com/drawings/d/1iEgJdA6kyTmLRTO5Tgot74HEc4zN9oMdQ9pn6mgyCag/edit -->
 
