@@ -21,6 +21,8 @@ Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-h
 (^ newly added / deferred students feel free to add yourself to this!)
  -->
  
+***
+ 
 ## Cohort Roadmap
 
 ![image](https://docs.google.com/drawings/d/e/2PACX-1vRH7FAAAgJXQienqeAKDWqJlLMzeNqywOgF6F9g0hzgMSXaE5_llfz9bQ5javAXfUOlvVpxVttjk4wI/pub?w=1440&h=1203)
@@ -33,16 +35,20 @@ Where we are and where we're going!
 ## Upcoming Holidays (no class!):
 
 ### Thanksgiving Half-Week:
-* Wed 11/24/2021	
-* Thu 11/25/2021	
-* Sat 11/27/2021 
+* Wed 11/24/2021	(no class!)
+* Thu 11/25/2021	(no class!)
+* Sat 11/27/2021	(no class!)
+
+### Thanksgiving Notes: 
+* Monday 11/22 we will have our normal assessment.
+* The following Monday 11/29 we will not have an assessment! 🎉
 
 ### Winter Holiday:
-* Mon 12/20/2021
-* Tue 12/21/2021	
-* Wed 12/22/2021	
-* Thu 12/23/2021	
-* Sat 12/25/2021	
+* Mon 12/20/2021	(no class!)
+* Tue 12/21/2021	(no class!)
+* Wed 12/22/2021	(no class!)
+* Thu 12/23/2021	(no class!)
+* Sat 12/25/2021	(no class!)
 
 
 <!-- ***
