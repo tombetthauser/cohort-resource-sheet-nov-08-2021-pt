@@ -12,6 +12,8 @@ EST Slack Channel: [#2021-11-08-pt-est](https://app-academy.slack.com/archives/C
 
 Lecture Questions Slack Channel: [#2021-11-08-live-questions](https://app-academy.slack.com/archives/C02FZGCHA1E)
 
+Office Hours Sign-Up Sheet: [click here](https://docs.google.com/spreadsheets/d/1-iiCfiFsxY0YXXBYP_ZoLTZmOjldOFeltjbwQBposeI/edit#gid=2128268448)
+
 App Academy Open: [click here](open.appacademy.io/learn)
 
 Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/code-of-conduct)
