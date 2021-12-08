@@ -18,16 +18,16 @@ App Academy Open: [click here](open.appacademy.io/learn)
 
 Student Code of Conduct: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/code-of-conduct)
 
-<!-- Student Introduction Google Sheet: [click here](https://docs.google.com/spreadsheets/d/1g3CMPhuKuyqLaE3YmUWOnXBwFoiHlOMw8lN-519AYCY/edit#gid=2047540154) 📌
+Student Introduction Google Sheet: [click here](https://docs.google.com/spreadsheets/d/1d2kE3AruH6lSagwfeMzx7RE3MWKqN8o-nrgjzDG8NB0/edit#gid=2047540154) 📌
 
 (^ newly added / deferred students feel free to add yourself to this!)
- -->
  
 ***
  
 ## Cohort Roadmap
 
 ![image](https://docs.google.com/drawings/d/e/2PACX-1vRH7FAAAgJXQienqeAKDWqJlLMzeNqywOgF6F9g0hzgMSXaE5_llfz9bQ5javAXfUOlvVpxVttjk4wI/pub?w=1440&h=1203)
+<!-- https://docs.google.com/drawings/d/1iEgJdA6kyTmLRTO5Tgot74HEc4zN9oMdQ9pn6mgyCag/edit -->
 
 Where we are and where we're going!
 
