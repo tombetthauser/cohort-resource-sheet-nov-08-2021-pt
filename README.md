@@ -52,6 +52,9 @@ Where we are and where we're going!
 * Thu 12/23/2021	(no class!)
 * Sat 12/25/2021	(no class!)
 
+### New Years Holiday:
+* Sat 1/1/2022 (no class!)
+
 
 <!-- ***
 
