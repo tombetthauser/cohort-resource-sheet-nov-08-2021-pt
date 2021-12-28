@@ -22,9 +22,12 @@ Student Introduction Google Sheet: [click here](https://docs.google.com/spreadsh
 
 (^ newly added / deferred students feel free to add yourself to this!)
 
+---
+
 AA Update Setup: [github.com/appacademy/SWEO-Part-Time-Resources](https://github.com/appacademy/SWEO-Part-Time-Resources/tree/main/1-Module/1-week/1-day)
 
 Cohort Code for East: 2021-Nov-E
+
 Cohort Code for West: 2021-Nov-W
  
 ***
